@@ -1,4 +1,4 @@
-#  Probability-and-Statistics-with-Python
+#  Probability-and-Statistics
 
 * Inference Statistics
 * Visualization
