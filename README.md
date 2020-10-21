@@ -2,4 +2,3 @@
 * Inference Statistics
 * Visualization
 * Probability
-* test3
