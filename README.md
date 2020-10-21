@@ -1,1 +1,1 @@
-#  Inference-Statistics-with-Python
+#  Probability-and-Statistics-with-Python
